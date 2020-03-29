@@ -1,4 +1,4 @@
-This is the repo of Control Theory Homework №1.
+This is the repo of Control Theory Homework.
 
 To run the code:
 1) Install dependencies by "pip3 install -r requirements.txt".
